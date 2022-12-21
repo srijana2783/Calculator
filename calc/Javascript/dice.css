@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: green;
+    font-weight: 1.5rem;
+    
+}
+.dice{
+    display: inline-block;
+    margin-right: 40px;
+    text-align: center;
+
+}
+.img1,.img2{
+
+    margin-right: 80%;
+    padding-left: 100px;
+}
